@@ -8,11 +8,11 @@
 
 O Brafé é um website de uma rede de cafeterias no Rio.
 
-### <a href="https://luizfelipe9627-le-scone.netlify.app">Acesse o projeto</a>
+### <a href="https://luizfelipe9627-brafe-1.netlify.app">Acesse o projeto</a>
 
 ## 📑 Observação
 
-Esse foi o primeiro projeto do curso de CSS Avançado Posicionamento da Origamid, onde foi reforçado o conhecimento sobre posicionamento de elementos utilizando o CSS3.
+Esse foi o primeiro projeto do curso de CSS Avançado Posicionamento da Origamid, com o objetivo de praticar e aprimorar as técnicas de posicionamento utilizando apenas CSS3.
 
 ### <a href="https://www.origamid.com/curso/css-avancado-posicionamento">Acesse o curso</a>
 
