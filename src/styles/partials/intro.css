@@ -28,7 +28,7 @@
   font-size: 1.125em;
 }
 
-@media (max-width: 768px) {
+@media (max-width: 767px) {
   .intro {
     padding: 60px 0;
   }
